@@ -1,29 +1,34 @@
-# winemon
+# NativeBase KitchenSink App For Vue Native
 
-## Project setup
-```
-npm install
-```
+This project was bootstrapped with [Vue Native Cli](https://github.com/GeekyAnts/vue-native-cli).
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Demo
 
-### Compiles and minifies for production
-```
-npm run build
-```
+| iOS                                                                                             | Android                                                                                                 |
+| :---------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------: |
+| ![ios-demo](https://github.com/GeekyAnts/NativeBase-KitchenSink/raw/master/screenshots/iOS.gif) | ![android-demo](https://github.com/GeekyAnts/NativeBase-KitchenSink/raw/master/screenshots/Android.gif) |
 
-### Run your tests
+## Installation
+
+* **Clone and install packages**
+
 ```
-npm run test
+git clone https://github.com/GeekyAnts/KitchenSink-Vue-Native.git
+cd KitchenSink-Vue-Native
+yarn
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+* **Run on iOS**
+  * Opt #1:
+    * Run `npm start` in your terminal
+    * Scan the QR code in your Expo app
+  * Opt #2:
+    * Run `npm run ios` in your terminal
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- **Run on Android**
+  * Opt #1:
+    * Run `npm start` in your terminal
+    * Scan the QR code in your Expo app
+  * Opt #2:
+    * Make sure you have an `Android emulator` installed and running
+    * Run `npm run android` in your terminal
