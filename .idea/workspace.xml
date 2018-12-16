@@ -2,225 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad382cc7-702a-404c-80da-9b04d3c9df28" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.babelrc" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.expo/packager-info.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.expo/settings.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.flowconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/winemon.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.watchmanconfig" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/App.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/camera.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/contacts/atul.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/contacts/himanshu.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/contacts/megha.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/contacts/pratik.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/contacts/sanket.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/contacts/sankhadeep.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/contacts/saurabh.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/contacts/shivraj.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/contacts/shruti.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/contacts/shweta.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/contacts/supriya.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/contacts/varun.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/drawer-cover.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/launchscreen-bg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/logo-kitchen-sink.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/logo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/nblogo.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/splashscreen.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/swiper-1.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/swiper-2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/swiper-3.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/swiper-4.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/assets/web-cover1.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/license" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/rn-cli.config.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/boot/setup.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/actionSheet/icon.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/actionSheet/index.android.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/actionSheet/index.ios.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/actionSheet/regular.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/anatomy/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/badge/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/button/blockButton.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/button/customButton.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/button/defaultButton.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/button/disableButton.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/button/fullButton.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/button/iconButton.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/button/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/button/outlineButton.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/button/roundedButton.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/button/transparentButton.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/card/basicCard.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/card/carItemButton.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/card/cardBordered.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/card/cardHeaderAndFooter.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/card/cardImage.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/card/cardList.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/card/cardShowcase.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/card/cardTransparent.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/card/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/checkbox/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/deckSwiper/advancedDeckSwiper/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/deckSwiper/common/card.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/deckSwiper/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/deckSwiper/simpleDeckSwiper/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/fab/basicFab.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/fab/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/fab/multipleFabIcon.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/footer/badgeFooter.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/footer/basicFooter.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/footer/iconFooter.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/footer/iconTextFooter.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/footer/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/disabledInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/errorInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/fixedLabelInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/floatingLabelInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/iconInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/inlineLabelInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/placeholderInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/regularInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/roundedInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/stackedInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/succesInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/textAreaInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/form/underLineInput.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/header/header1.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/header/header2.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/header/header3.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/header/header4.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/header/header5.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/header/header6.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/header/header7.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/header/header8.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/header/headerNoShadow.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/header/headerSpan.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/header/index.android.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/header/index.ios.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/home/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/icons/basicIon.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/icons/familyIcon.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/icons/icon.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/icons/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/icons/platformSpecificIcon.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/layout/columnLayout.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/layout/customColumnLayout.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/layout/customRowLayout.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/layout/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/layout/nestedLayout.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/layout/rowLayout.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/list/avatarList.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/list/basicList.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/list/dividerList.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/list/headerList.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/list/iconList.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/list/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/list/selectedListItem.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/list/separatorList.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/list/thumbnailList.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/listSwipe/basicListSwipe.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/listSwipe/customRowListSwiper.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/listSwipe/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/listSwipe/multiListSwiper.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/picker/backButtonPicker.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/picker/customHeaderPicker.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/picker/headerPicker.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/picker/headerStylePicker.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/picker/index.android.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/picker/index.ios.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/picker/pickerTextItemText.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/picker/pickerWithIcon.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/picker/placeHolderPicker.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/picker/placeholderPickerNote.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/picker/regularPicker.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/radio/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/searchBar/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/segment/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/segment/segmentHeader.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/segment/segmentTab.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/sidebar/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/spinner/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/tabs/advanceTab.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/tabs/basicTab.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/tabs/components/tabFive.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/tabs/components/tabFour.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/tabs/components/tabOne.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/tabs/components/tabThree.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/tabs/components/tabTwo.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/tabs/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/tabs/scrollableTab.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/thumbnail/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/toast/basicToast.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/toast/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/toast/toastButton.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/toast/toastDuration.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/toast/toastPosition.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/toast/toastText.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/toast/toastType.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/screens/typography/index.vue" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Badge.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Body.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Button.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Card.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/CardItem.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/CheckBox.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Container.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Content.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Fab.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Footer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/FooterTab.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Form.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/H1.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/H2.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/H3.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Header.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Icon.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Input.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/InputGroup.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Item.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Label.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Left.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/ListItem.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Picker.android.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Picker.ios.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Picker.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Radio.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Right.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Segment.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Separator.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Spinner.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Subtitle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/SwipeRow.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Switch.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Tab.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/TabBar.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/TabContainer.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/TabHeading.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Text.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Textarea.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Thumbnail.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Title.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/Toast.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/View.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/components/index.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/variables/commonColor.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/variables/material.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/theme/variables/platform.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/vueTransformerPlugin.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/yarn.lock" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" afterPath="$PROJECT_DIR$/src/App.vue" />
+      <change beforePath="$PROJECT_DIR$/.expo/packager-info.json" afterPath="$PROJECT_DIR$/.expo/packager-info.json" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/logo-kitchen-sink.png" afterPath="$PROJECT_DIR$/assets/logo-kitchen-sink.png" />
+      <change beforePath="$PROJECT_DIR$/assets/logo.png" afterPath="$PROJECT_DIR$/assets/logo.png" />
+      <change beforePath="$PROJECT_DIR$/src/screens/home/index.vue" afterPath="$PROJECT_DIR$/src/screens/home/index.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -244,13 +30,62 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
               <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="setup.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/boot/setup.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#157#191#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3108">
+              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/screens/home/index.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="splashscreen.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/splashscreen.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -263,6 +98,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/screens/home/index.vue" />
       </list>
     </option>
   </component>
@@ -278,11 +114,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="324" />
     <option name="y" value="23" />
     <option name="width" value="1402" />
-    <option name="height" value="990" />
+    <option name="height" value="817" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -308,6 +146,35 @@
               <item name="winemon" type="b2602c69:ProjectViewProjectNode" />
               <item name="winemon" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="winemon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="winemon" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="winemon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="winemon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="winemon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="winemon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="boot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="winemon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="winemon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="winemon" type="b2602c69:ProjectViewProjectNode" />
+              <item name="winemon" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -324,6 +191,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -357,10 +225,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5579000" />
+    <option name="totallyTimeSpent" value="7745000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="272" y="23" width="1402" height="990" extended-state="0" />
+    <frame x="0" y="23" width="1402" height="817" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25367647" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -370,7 +239,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40858725" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -400,15 +269,9 @@
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
             <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -431,6 +294,60 @@
           <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/boot/setup.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#157#191#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3108">
+          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logo-kitchen-sink.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/logo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/home/index.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="20" lean-forward="true" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/splashscreen.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>

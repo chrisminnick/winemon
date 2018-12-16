@@ -6,8 +6,8 @@
         <image-background :source="launchscreenLogo" class="logo" :style="stylesObj.logoStyle">
       </view>
       <view class="text-container">
-        <nb-h3 :style="{marginBottom: 8}" class="text-color-white">App To ShowCase</nb-h3>
-        <nb-h3 class="text-color-white">NativeBase Components</nb-h3>
+        <nb-h3 :style="{marginBottom: 8}" class="text-color-white">Total Vineyard and Winery</nb-h3>
+        <nb-h3 class="text-color-white">Management</nb-h3>
       </view>
       <view :style="{ marginBottom: 80 }">
         <nb-button :style="stylesObj.btnContainer" :onPress="handleLetGoBtnPress">
